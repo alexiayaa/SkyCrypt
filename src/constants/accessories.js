@@ -91,6 +91,7 @@ const accessoryUpgrades = [
   ["EMERALD_RING", "EMERALD_ARTIFACT"],
   ["MINERAL_TALISMAN", "GLOSSY_MINERAL_TALISMAN"],
   ["HASTE_RING", "HASTE_ARTIFACT"],
+  ["IQ_POINT", "TWO_IQ_POINT"],
 ];
 
 const ignoredAccessories = [
