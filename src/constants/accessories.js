@@ -92,6 +92,8 @@ const accessoryUpgrades = [
   ["MINERAL_TALISMAN", "GLOSSY_MINERAL_TALISMAN"],
   ["HASTE_RING", "HASTE_ARTIFACT"],
   ["IQ_POINT", "TWO_IQ_POINT"],
+  ["CENTURY_TALISMAN", "CENTURY_RING"],
+  ["SEAL_TALISMAN", "SEAL_RING"],
 ];
 
 const ignoredAccessories = [
